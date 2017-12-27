@@ -1,1 +1,2 @@
 this is tutorial for git. this is 1st line
+changing username and email
