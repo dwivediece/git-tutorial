@@ -3,3 +3,5 @@ Commit list in details – git log
 3)	List of all the authors within the project – git shortlog -s -n --all
 4)	Commits list by author – git log --author <Author Name>
 5)	Logs of specific file – git log --author <Author Name> <filename>
+
+This is a commit on hotfix branch.
